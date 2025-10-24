@@ -55,3 +55,6 @@ gtk3=3.24.33
 xorg-xineramaproto=1.2.1
 xorg-libxdamage=1.1.5
 xorg-libxcomposite=0.4.6
+
+embree3=3.13.5
+tbb-devel=2021.9.0

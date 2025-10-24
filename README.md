@@ -31,6 +31,9 @@ mamba install --file ../conda_pkgs.txt  pytorch=2.0.0=cuda112py39ha9981d0_200 -c
 
 mamba install opencv=4.5.3
 
+mamba install cxx-compiler=1.5.2
+
+mamba install cmake=3.26.4 make
 
 # verify
 which gcc
