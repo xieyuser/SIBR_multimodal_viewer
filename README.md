@@ -2,7 +2,7 @@
 
 [Video](https://www.bilibili.com/video/BV1EdYyzbEXj/)
 
-[Deploy Video]()
+[Deploy Video](https://www.bilibili.com/video/BV1bhspzZEcW/?vd_source=0211af3bb655d5627b96e8718e3af59f)
 
 Available in Linux with Cmake.
 
